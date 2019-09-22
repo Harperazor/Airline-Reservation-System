@@ -1,13 +1,9 @@
 /*CSCI 1101-Project-AirlineInformation
-This program use a constructor to initial an ArrayList, use
-method called initial to add airline information to this 
-ArrayList, use a method called size to return this list's
-size, use a method called get to get airline information
-Wenliang Jia, B00756205, 15/04/2018
-Hengpu Zhang, B00754648,
-Dongyuan Ren, B00752087
-Haorui Yang, B00757933
-*/
+ *This program use a constructor to initial an ArrayList, use method called initial to add airline information to this 
+  ArrayList, use a method called size to return this list's size, use a method called get to get airline information
+ *Wenliang Jia, 15/04/2018
+ *Hengpu Zhang, 
+ */
 import java.util.ArrayList;//import the ArrayList class
 public class AirlineInformation{
     //instance variables
