@@ -1,15 +1,10 @@
 /*CSCI 1101-Project-Reservation
-This program use a constructor to initial a LinkedList (list),
-use a method called addFlights to add flights in in alphabetical
-order, use a method called Cancel to cancel booked flights, use
-a method called totalCost to calculate the total costs, use a
-method called display to print out all booked flights, use a
-method called size to return the size of this likedlist
-Wenliang Jia, B00756205, 15/04/2018
-Hengpu Zhang, B00754648,
-Dongyuan Ren, B00752087
-Haorui Yang, B00757933
-*/
+ *This program use a constructor to initial a LinkedList (list), use the addFlights method to add flights in in alphabetical
+  order, use the Cancel method to cancel booked flights, use the totalCost method to calculate the total costs, use the
+  display method to print out all booked flights, use the size method to return the size of this likedlist
+ *Wenliang Jia, 15/04/2018
+ *Hengpu Zhang,
+ */
 public class Reservation{
    //instance variables
    private LinkedList list;
