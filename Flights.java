@@ -1,12 +1,9 @@
 /*CSCI 1101-Project-Flights
-This program use a constructor to set values(begining city, 
-destination, time and costs), use a toString method to print
-out flights' information
-Wenliang Jia, B00756205, 15/04/2018
-Hengpu Zhang, B00754648,
-Dongyuan Ren, B00752087
-Haorui Yang, B00757933
-*/
+ *This program use a constructor to set values(begining city, destination, time and costs), use a toString method to print 
+  out flights' information
+ *Wenliang Jia, 15/04/2018
+ *Hengpu Zhang,
+ */
 public class Flights{
    //instance variables
    private String endCity;
