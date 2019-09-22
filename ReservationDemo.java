@@ -1,11 +1,9 @@
 /*CSCI 1101-Project-ReservationDemo
-This program use a Scanner object to ask users to input
-their basic information, use a while loop to book a flight,
-cancel a flight, show all reservations and quit the 
-reservation system
-Wenliang Jia, 15/04/2018
-Hengpu Zhang, 
-*/
+ *This program use a Scanner object to ask users to input their basic information, use a while loop to book a flight,
+  cancel a flight, show all reservations and quit the reservation system.
+ *Wenliang Jia, 15/04/2018
+ *Hengpu Zhang, 
+ */
 import java.util.Scanner;//import the Scanner class
 import java.util.ArrayList;//import the ArrayList class
 public class ReservationDemo{
