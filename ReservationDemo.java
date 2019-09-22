@@ -3,10 +3,8 @@ This program use a Scanner object to ask users to input
 their basic information, use a while loop to book a flight,
 cancel a flight, show all reservations and quit the 
 reservation system
-Wenliang Jia, B00756205, 15/04/2018
-Hengpu Zhang, B00754648,
-Dongyuan Ren, B00752087
-Haorui Yang, B00757933
+Wenliang Jia, 15/04/2018
+Hengpu Zhang, 
 */
 import java.util.Scanner;//import the Scanner class
 import java.util.ArrayList;//import the ArrayList class
