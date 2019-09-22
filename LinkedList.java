@@ -1,13 +1,9 @@
 /*CSCI 1101-Project-LinkedList
-This program use a constructor to set values(a node content and
-a node), use a series of methods to form the linked list of nodes
-use a method called removeFront to remove the first node, use a
-method called removeLast to remove the last node
-Wenliang Jia, B00756205, 15/04/2018
-Hengpu Zhang, B00754648,
-Dongyuan Ren, B00752087
-Haorui Yang, B00757933
-*/
+ *This program use a constructor to set values(a node content and a node), use a series of methods to form the linked list of nodes
+  use a method called removeFront to remove the first node, use a method called removeLast to remove the last node
+ *Wenliang Jia, 15/04/2018
+ *Hengpu Zhang,
+ */
 public class LinkedList{
    //instance variables
    private Node front; 
